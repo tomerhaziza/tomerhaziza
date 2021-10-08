@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tomer Haziza, a Full Stack Web Developer
-- 👀 I’m experienced with advanced Javascript libraries, like React & Angular, and Node.js for backend
-- 🌱 I’m currently learning React Native
+- 👀 I’m experienced with advanced Javascript libraries, like React, Angular, and Node.js
 - 📫 LinkedIn: https://www.linkedin.com/in/tomerhaziza/
 
 
